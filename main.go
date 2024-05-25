@@ -8,10 +8,6 @@ import (
 	"github.com/urfave/cli/v2"
 )
 
-// imports as package "cli"
-
-// imports as package "cli"
-
 func main() {
 	app := &cli.App{
 		Name:  "Health Check",
